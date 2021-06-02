@@ -129,7 +129,7 @@ tweepy==3.9.0
 Twisted @ file:///C:/Users/abc/Twisted-20.3.0-cp38-cp38-win32.whl
 twitterscraper==1.4.0
 txt2tags==3.7
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.14
 virtualenv-clone==0.5.4
 virtualenvwrapper-win==1.2.6
